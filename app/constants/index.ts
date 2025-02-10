@@ -68,7 +68,7 @@ export const sampleBooks = [
       'A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death.',
     coverColor: '#1c1f40',
     coverUrl: 'https://m.media-amazon.com/images/I/81J6APjwxlL.jpg',
-    isLoanedBook: true,
+
     videoUrl: '/sample-video.mp4?updatedAt=1722593504152',
     summary:
       'A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death. A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death.',
@@ -85,7 +85,7 @@ export const sampleBooks = [
       'A revolutionary guide to making good habits, breaking bad ones, and getting 1% better every day.',
     coverColor: '#fffdf6',
     coverUrl: 'https://m.media-amazon.com/images/I/81F90H7hnML.jpg',
-    isLoanedBook: true,
+
     videoUrl: '/sample-video.mp4?updatedAt=1722593504152',
     summary:
       'A revolutionary guide to making good habits, breaking bad ones, and getting 1% better every day.',
@@ -102,7 +102,7 @@ export const sampleBooks = [
       'An essential guide to understanding the core mechanisms of JavaScript, focusing on scope and closures.',
     coverColor: '#f8e036',
     coverUrl: 'https://m.media-amazon.com/images/I/7186YfjgHHL._AC_UF1000,1000_QL80_.jpg',
-    isLoanedBook: true,
+
     videoUrl: '/sample-video.mp4?updatedAt=1722593504152',
     summary:
       'An essential guide to understanding the core mechanisms of JavaScript, focusing on scope and closures.',
@@ -119,7 +119,7 @@ export const sampleBooks = [
       'A magical tale of Santiago, an Andalusian shepherd boy, who embarks on a journey to find a worldly treasure.',
     coverColor: '#ed6322',
     coverUrl: 'https://m.media-amazon.com/images/I/61HAE8zahLL._AC_UF1000,1000_QL80_.jpg',
-    isLoanedBook: true,
+
     videoUrl: '/sample-video.mp4?updatedAt=1722593504152',
     summary:
       'A magical tale of Santiago, an Andalusian shepherd boy, who embarks on a journey to find a worldly treasure.',
@@ -170,7 +170,7 @@ export const sampleBooks = [
       'A timeless guide for developers to hone their skills and improve their programming practices.',
     coverColor: '#100f15',
     coverUrl: 'https://m.media-amazon.com/images/I/71VStSjZmpL._AC_UF1000,1000_QL80_.jpg',
-    isLoanedBook: true,
+
     videoUrl: '/sample-video.mp4?updatedAt=1722593504152',
     summary:
       'A timeless guide for developers to hone their skills and improve their programming practices.',
@@ -187,7 +187,7 @@ export const sampleBooks = [
       'Morgan Housel explores the unique behaviors and mindsets that shape financial success and decision-making.',
     coverColor: '#ffffff',
     coverUrl: 'https://m.media-amazon.com/images/I/81Dky+tD+pL._AC_UF1000,1000_QL80_.jpg',
-    isLoanedBook: true,
+
     videoUrl: '/sample-video.mp4?updatedAt=1722593504152',
     summary:
       'Morgan Housel explores the unique behaviors and mindsets that shape financial success and decision-making.',
